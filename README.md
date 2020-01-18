@@ -12,4 +12,4 @@ http://www.nus-datathon.com/
 3. Patient segmentation (K-means clustering by body attributes)
 4. Predict mor
 
-#### _Check out to jupyter notebook for full details._
+#### _Check out the jupyter notebooks and final report for full details._
